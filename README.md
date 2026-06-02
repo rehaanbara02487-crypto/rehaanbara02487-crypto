@@ -81,22 +81,6 @@ currently_learning: Advanced AI Engineering, AI Agents, RAG Architectures, Produ
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rehaanbara02487-crypto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=rehaanbara02487-crypto&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
-
-  <br />
-  <br />
-
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehaanbara02487-crypto&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1" alt="Top Languages" />
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
