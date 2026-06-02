@@ -109,7 +109,7 @@ currently_learning: Advanced AI Engineering, AI Agents, RAG Architectures, Produ
         AI-powered automation platform, AI agents, workflows, and business productivity tools.
       </p>
       <p align="center">
-        <a href="https://beingai.space">
+        <a href="https://www.beingai.space">
           <img src="https://img.shields.io/badge/Visit_Platform-38BDF8?style=for-the-badge&logo=vercel&logoColor=0F172A" alt="Visit BeingAI" />
         </a>
       </p>
